@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/badge/👨‍💻-Developer-9B59B6?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=9B59B6" />
 </p>
 
-<!-- Matrix Rain Effect - JS & AI -->
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
+<!-- Matrix Rain Effect - Java & AI -->
+<img src="https://media.tenor.com/4HB9Nz7r4PsAAAAj/java-coffee.gif" width="100"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
 
 ### 🎯 **Crafting Solutions with Code, Empowering Innovation with Purpose**
@@ -58,7 +58,7 @@
 #### 🌐 **Orion – Web Dev Contest Portal**
 
 <p>
-  <img src="https://img.shields.io/badge/Frontend-HTML/CSS/JS-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-HTML/CSS/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Event-Orion-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
