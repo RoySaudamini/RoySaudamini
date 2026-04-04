@@ -153,18 +153,3 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
 </p>
 
----
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=RoySaudamini&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RoySaudamini&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoySaudamini&theme=shadow_blue&hide_border=false&layout=compact&langs_count=10&count_private=true&include_all_commits=true&hide=jupyter%20notebook)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=RoySaudamini&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
